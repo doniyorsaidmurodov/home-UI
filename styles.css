@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  color: black;
+}
+
+main {
+  background-color: #deeeff;
+  border: 1px solid green;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: 1px solid red;
+}
+
+.card {
+  padding: 1rem;
+  border-radius: 1rem;
+  background-color: white;
+}
